@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders04_ClassEkstra", "Ders0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders05_ThisKeywordu", "Ders05_ThisKeywordu\Ders05_ThisKeywordu.csproj", "{BEAB52C4-53F9-41A1-9FCE-66809BD2F4E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders06_NesneKavrami", "Ders06_NesneKavrami\Ders06_NesneKavrami.csproj", "{81419211-E8CF-426D-A0FD-C0A8A764A093}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -75,5 +77,17 @@ Global
 		{BEAB52C4-53F9-41A1-9FCE-66809BD2F4E5}.Release|x64.Build.0 = Release|Any CPU
 		{BEAB52C4-53F9-41A1-9FCE-66809BD2F4E5}.Release|x86.ActiveCfg = Release|Any CPU
 		{BEAB52C4-53F9-41A1-9FCE-66809BD2F4E5}.Release|x86.Build.0 = Release|Any CPU
+		{81419211-E8CF-426D-A0FD-C0A8A764A093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81419211-E8CF-426D-A0FD-C0A8A764A093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81419211-E8CF-426D-A0FD-C0A8A764A093}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{81419211-E8CF-426D-A0FD-C0A8A764A093}.Debug|x64.Build.0 = Debug|Any CPU
+		{81419211-E8CF-426D-A0FD-C0A8A764A093}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{81419211-E8CF-426D-A0FD-C0A8A764A093}.Debug|x86.Build.0 = Debug|Any CPU
+		{81419211-E8CF-426D-A0FD-C0A8A764A093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81419211-E8CF-426D-A0FD-C0A8A764A093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81419211-E8CF-426D-A0FD-C0A8A764A093}.Release|x64.ActiveCfg = Release|Any CPU
+		{81419211-E8CF-426D-A0FD-C0A8A764A093}.Release|x64.Build.0 = Release|Any CPU
+		{81419211-E8CF-426D-A0FD-C0A8A764A093}.Release|x86.ActiveCfg = Release|Any CPU
+		{81419211-E8CF-426D-A0FD-C0A8A764A093}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
