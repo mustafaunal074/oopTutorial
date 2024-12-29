@@ -1,2 +1,20 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace Ders06_NesneKavrami
+{
+    public class Program
+    {
+        private static void Main(string[] args)
+        {
+            var myclass = new MyClass();
+            var random = new Random();
+            MyClass m = new();
+        }
+    }
+    class MyClass
+    {
+        public int A { get; set; }
+        public void X()
+        {
+
+        }
+    }
+}
