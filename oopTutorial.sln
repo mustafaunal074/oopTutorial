@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders10_Record", "Ders10_Rec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders11_Constructor", "Ders11_Constructor\Ders11_Constructor.csproj", "{42BAEBB1-005C-4D5E-A56F-4494C2D4848A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders12_Destructor", "Ders12_Destructor\Ders12_Destructor.csproj", "{CDF87805-6293-4360-BADB-0719E6AD29E0}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -159,5 +161,17 @@ Global
 		{42BAEBB1-005C-4D5E-A56F-4494C2D4848A}.Release|x64.Build.0 = Release|Any CPU
 		{42BAEBB1-005C-4D5E-A56F-4494C2D4848A}.Release|x86.ActiveCfg = Release|Any CPU
 		{42BAEBB1-005C-4D5E-A56F-4494C2D4848A}.Release|x86.Build.0 = Release|Any CPU
+		{CDF87805-6293-4360-BADB-0719E6AD29E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF87805-6293-4360-BADB-0719E6AD29E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF87805-6293-4360-BADB-0719E6AD29E0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CDF87805-6293-4360-BADB-0719E6AD29E0}.Debug|x64.Build.0 = Debug|Any CPU
+		{CDF87805-6293-4360-BADB-0719E6AD29E0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CDF87805-6293-4360-BADB-0719E6AD29E0}.Debug|x86.Build.0 = Debug|Any CPU
+		{CDF87805-6293-4360-BADB-0719E6AD29E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF87805-6293-4360-BADB-0719E6AD29E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDF87805-6293-4360-BADB-0719E6AD29E0}.Release|x64.ActiveCfg = Release|Any CPU
+		{CDF87805-6293-4360-BADB-0719E6AD29E0}.Release|x64.Build.0 = Release|Any CPU
+		{CDF87805-6293-4360-BADB-0719E6AD29E0}.Release|x86.ActiveCfg = Release|Any CPU
+		{CDF87805-6293-4360-BADB-0719E6AD29E0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
