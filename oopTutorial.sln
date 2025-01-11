@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders12_Destructor", "Ders12
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders13_Deconstruct", "Ders13_Deconstruct\Ders13_Deconstruct.csproj", "{3D4CA7A9-96DC-4148-83B7-426525B2745B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders14_StaticConstructor", "Ders14_StaticConstructor\Ders14_StaticConstructor.csproj", "{6D5323FF-2F0C-40FF-821C-ACB4426FE0BD}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -187,5 +189,17 @@ Global
 		{3D4CA7A9-96DC-4148-83B7-426525B2745B}.Release|x64.Build.0 = Release|Any CPU
 		{3D4CA7A9-96DC-4148-83B7-426525B2745B}.Release|x86.ActiveCfg = Release|Any CPU
 		{3D4CA7A9-96DC-4148-83B7-426525B2745B}.Release|x86.Build.0 = Release|Any CPU
+		{6D5323FF-2F0C-40FF-821C-ACB4426FE0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D5323FF-2F0C-40FF-821C-ACB4426FE0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D5323FF-2F0C-40FF-821C-ACB4426FE0BD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6D5323FF-2F0C-40FF-821C-ACB4426FE0BD}.Debug|x64.Build.0 = Debug|Any CPU
+		{6D5323FF-2F0C-40FF-821C-ACB4426FE0BD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6D5323FF-2F0C-40FF-821C-ACB4426FE0BD}.Debug|x86.Build.0 = Debug|Any CPU
+		{6D5323FF-2F0C-40FF-821C-ACB4426FE0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D5323FF-2F0C-40FF-821C-ACB4426FE0BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D5323FF-2F0C-40FF-821C-ACB4426FE0BD}.Release|x64.ActiveCfg = Release|Any CPU
+		{6D5323FF-2F0C-40FF-821C-ACB4426FE0BD}.Release|x64.Build.0 = Release|Any CPU
+		{6D5323FF-2F0C-40FF-821C-ACB4426FE0BD}.Release|x86.ActiveCfg = Release|Any CPU
+		{6D5323FF-2F0C-40FF-821C-ACB4426FE0BD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
