@@ -34,36 +34,56 @@
     #endregion
     #region Part 2
     
+    // class Program
+    // {
+    //     private static void Main(string[] args)
+    //     {
+    //         // new D();
+    //         // result aşağıdaki gibidir
+    //         // A nesnesi oluşturulmuştur
+    //         // B nesnesi oluşturulmuştur
+    //         // C nesnesi oluşturulmuştur
+    //         // D nesnesi oluşturulmuştur
+
+    //         // yani atalardan başlar ilgili nesne üretimine gelecektir.
+    //     }
+    // }
+    #endregion
+    #region Part 3
+    
     class Program
     {
         private static void Main(string[] args)
         {
-            // new D();
-            // result aşağıdaki gibidir
-            // A nesnesi oluşturulmuştur
-            // B nesnesi oluşturulmuştur
-            // C nesnesi oluşturulmuştur
-            // D nesnesi oluşturulmuştur
+            MyClass m = new();
 
-            // yani atalardan başlar ilgili nesne üretimine gelecektir.
-        }
-    }
-    #endregion
-
-    class A
-    {
-        int a;
-        public int b;
-        public int MyProperty { get; set; }
-    }
-    class B : A
-    {
-        int c;
-        public void X()
-        {
+            D d = new D();
+            d.X();
             
         }
     }
+    #endregion
+    
+    #region Part 2
+        
+    #region this vs base
+    
+    // class A
+    // {
+    //     int a;
+    //     public int b;
+    //     public int MyProperty { get; set; }
+    // }
+    // class B : A
+    // {
+    //     int c;
+    //     public void X()
+    //     {
+            
+    //     }
+    // }
+
+    #endregion
 
     #region base keywordu Kullanimi
     
@@ -159,5 +179,36 @@
     // }
         
     #endregion
+
+    #endregion
+    
+    class MyClass
+    {
+        
+    }
+    class A
+    {
+        public void X()
+        {
+
+        }
+    }
+    class B :A
+    {
+        
+    }
+    class C : B
+    {
+        
+    }
+    class D : C
+    {
+        public new void X()
+        {
+
+        }
+    }
+
+
 
 }
