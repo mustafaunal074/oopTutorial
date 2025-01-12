@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders14_StaticConstructor", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders15_PositionalRecord", "Ders15_PositionalRecord\Ders15_PositionalRecord.csproj", "{97C27932-8798-4350-B8F8-019A38E2DF1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders16_Inheritance", "Ders16_Inheritance\Ders16_Inheritance.csproj", "{439C37A6-9E28-4911-BCDA-B3D4A6C545E7}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -215,5 +217,17 @@ Global
 		{97C27932-8798-4350-B8F8-019A38E2DF1A}.Release|x64.Build.0 = Release|Any CPU
 		{97C27932-8798-4350-B8F8-019A38E2DF1A}.Release|x86.ActiveCfg = Release|Any CPU
 		{97C27932-8798-4350-B8F8-019A38E2DF1A}.Release|x86.Build.0 = Release|Any CPU
+		{439C37A6-9E28-4911-BCDA-B3D4A6C545E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{439C37A6-9E28-4911-BCDA-B3D4A6C545E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{439C37A6-9E28-4911-BCDA-B3D4A6C545E7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{439C37A6-9E28-4911-BCDA-B3D4A6C545E7}.Debug|x64.Build.0 = Debug|Any CPU
+		{439C37A6-9E28-4911-BCDA-B3D4A6C545E7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{439C37A6-9E28-4911-BCDA-B3D4A6C545E7}.Debug|x86.Build.0 = Debug|Any CPU
+		{439C37A6-9E28-4911-BCDA-B3D4A6C545E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{439C37A6-9E28-4911-BCDA-B3D4A6C545E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{439C37A6-9E28-4911-BCDA-B3D4A6C545E7}.Release|x64.ActiveCfg = Release|Any CPU
+		{439C37A6-9E28-4911-BCDA-B3D4A6C545E7}.Release|x64.Build.0 = Release|Any CPU
+		{439C37A6-9E28-4911-BCDA-B3D4A6C545E7}.Release|x86.ActiveCfg = Release|Any CPU
+		{439C37A6-9E28-4911-BCDA-B3D4A6C545E7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
