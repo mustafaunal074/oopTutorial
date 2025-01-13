@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders15_PositionalRecord", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders16_Inheritance", "Ders16_Inheritance\Ders16_Inheritance.csproj", "{439C37A6-9E28-4911-BCDA-B3D4A6C545E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders18_Virtual-Override", "Ders18_Virtual-Override\Ders18_Virtual-Override.csproj", "{CF6247B8-2679-4BE1-AED7-F41C6EDBCA47}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -229,5 +231,17 @@ Global
 		{439C37A6-9E28-4911-BCDA-B3D4A6C545E7}.Release|x64.Build.0 = Release|Any CPU
 		{439C37A6-9E28-4911-BCDA-B3D4A6C545E7}.Release|x86.ActiveCfg = Release|Any CPU
 		{439C37A6-9E28-4911-BCDA-B3D4A6C545E7}.Release|x86.Build.0 = Release|Any CPU
+		{CF6247B8-2679-4BE1-AED7-F41C6EDBCA47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF6247B8-2679-4BE1-AED7-F41C6EDBCA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF6247B8-2679-4BE1-AED7-F41C6EDBCA47}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CF6247B8-2679-4BE1-AED7-F41C6EDBCA47}.Debug|x64.Build.0 = Debug|Any CPU
+		{CF6247B8-2679-4BE1-AED7-F41C6EDBCA47}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CF6247B8-2679-4BE1-AED7-F41C6EDBCA47}.Debug|x86.Build.0 = Debug|Any CPU
+		{CF6247B8-2679-4BE1-AED7-F41C6EDBCA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF6247B8-2679-4BE1-AED7-F41C6EDBCA47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF6247B8-2679-4BE1-AED7-F41C6EDBCA47}.Release|x64.ActiveCfg = Release|Any CPU
+		{CF6247B8-2679-4BE1-AED7-F41C6EDBCA47}.Release|x64.Build.0 = Release|Any CPU
+		{CF6247B8-2679-4BE1-AED7-F41C6EDBCA47}.Release|x86.ActiveCfg = Release|Any CPU
+		{CF6247B8-2679-4BE1-AED7-F41C6EDBCA47}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

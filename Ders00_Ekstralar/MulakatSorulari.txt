@@ -1,2 +1,5 @@
 Soru 1 => Bir classtan nesne oluşturulurken tetiklenen ilk fonksiyon nedir?
 Cevap 1 => Bir classtan ilk nesne üretiminde tetiklenen fonksiyon static ctordur ardından normal ctor. Normal bir nesne üretiminde ise tetiklenen ilk fonksiyon ctordur
+
+Soru 2 => virtual nedir?
+Cevap => Bir sanal memberın hangi nesneden geleceği run timede belirlenir
