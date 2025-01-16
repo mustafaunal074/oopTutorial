@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders16_Inheritance", "Ders1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders18_Virtual-Override", "Ders18_Virtual-Override\Ders18_Virtual-Override.csproj", "{CF6247B8-2679-4BE1-AED7-F41C6EDBCA47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders19_Polimorfizm", "Ders19_Polimorfizm\Ders19_Polimorfizm.csproj", "{EE65D2FC-6A29-4E00-BC2B-6C1791A7E739}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -243,5 +245,17 @@ Global
 		{CF6247B8-2679-4BE1-AED7-F41C6EDBCA47}.Release|x64.Build.0 = Release|Any CPU
 		{CF6247B8-2679-4BE1-AED7-F41C6EDBCA47}.Release|x86.ActiveCfg = Release|Any CPU
 		{CF6247B8-2679-4BE1-AED7-F41C6EDBCA47}.Release|x86.Build.0 = Release|Any CPU
+		{EE65D2FC-6A29-4E00-BC2B-6C1791A7E739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE65D2FC-6A29-4E00-BC2B-6C1791A7E739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE65D2FC-6A29-4E00-BC2B-6C1791A7E739}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EE65D2FC-6A29-4E00-BC2B-6C1791A7E739}.Debug|x64.Build.0 = Debug|Any CPU
+		{EE65D2FC-6A29-4E00-BC2B-6C1791A7E739}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EE65D2FC-6A29-4E00-BC2B-6C1791A7E739}.Debug|x86.Build.0 = Debug|Any CPU
+		{EE65D2FC-6A29-4E00-BC2B-6C1791A7E739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE65D2FC-6A29-4E00-BC2B-6C1791A7E739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE65D2FC-6A29-4E00-BC2B-6C1791A7E739}.Release|x64.ActiveCfg = Release|Any CPU
+		{EE65D2FC-6A29-4E00-BC2B-6C1791A7E739}.Release|x64.Build.0 = Release|Any CPU
+		{EE65D2FC-6A29-4E00-BC2B-6C1791A7E739}.Release|x86.ActiveCfg = Release|Any CPU
+		{EE65D2FC-6A29-4E00-BC2B-6C1791A7E739}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
