@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders20_NesnelerArasiIliskiT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders21_OzelKeywordler", "Ders21_OzelKeywordler\Ders21_OzelKeywordler.csproj", "{1A3AD4CA-8825-4C17-A590-7C6A5E9EFBBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders22_SealedKeyword", "Ders22_SealedKeyword\Ders22_SealedKeyword.csproj", "{B33ADFCC-2B18-4E2C-81B8-2680C7F71D5F}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -285,5 +287,17 @@ Global
 		{1A3AD4CA-8825-4C17-A590-7C6A5E9EFBBB}.Release|x64.Build.0 = Release|Any CPU
 		{1A3AD4CA-8825-4C17-A590-7C6A5E9EFBBB}.Release|x86.ActiveCfg = Release|Any CPU
 		{1A3AD4CA-8825-4C17-A590-7C6A5E9EFBBB}.Release|x86.Build.0 = Release|Any CPU
+		{B33ADFCC-2B18-4E2C-81B8-2680C7F71D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33ADFCC-2B18-4E2C-81B8-2680C7F71D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33ADFCC-2B18-4E2C-81B8-2680C7F71D5F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B33ADFCC-2B18-4E2C-81B8-2680C7F71D5F}.Debug|x64.Build.0 = Debug|Any CPU
+		{B33ADFCC-2B18-4E2C-81B8-2680C7F71D5F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B33ADFCC-2B18-4E2C-81B8-2680C7F71D5F}.Debug|x86.Build.0 = Debug|Any CPU
+		{B33ADFCC-2B18-4E2C-81B8-2680C7F71D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33ADFCC-2B18-4E2C-81B8-2680C7F71D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B33ADFCC-2B18-4E2C-81B8-2680C7F71D5F}.Release|x64.ActiveCfg = Release|Any CPU
+		{B33ADFCC-2B18-4E2C-81B8-2680C7F71D5F}.Release|x64.Build.0 = Release|Any CPU
+		{B33ADFCC-2B18-4E2C-81B8-2680C7F71D5F}.Release|x86.ActiveCfg = Release|Any CPU
+		{B33ADFCC-2B18-4E2C-81B8-2680C7F71D5F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

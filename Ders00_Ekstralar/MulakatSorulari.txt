@@ -6,3 +6,7 @@ Cevap => Bir sanal memberın hangi nesneden geleceği run timede belirlenir
 
 Soru 3 => Static Polimorfizm Nedir ?
 Cevap => Metot Overlading olmuş bir metottun derleme zamanında bilnmesi olayında denir.
+
+Soru 3 => Sealed Keywordü Nedir?
+Cevap => Bir sınıfın miras vermesini yahut bir başka deyişle başka bir sınıf tarafından miras alınmasını engelleyen bir keyword'dür.
+- Sadece sınıflarda ve sadece 'override' edilmiş metotlarda kullanılabilir.
