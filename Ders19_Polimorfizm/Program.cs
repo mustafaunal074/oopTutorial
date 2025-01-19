@@ -1,33 +1,83 @@
 ﻿namespace Ders19_Polimorfizm
 {
+    #region Part 1
+    
+    // class Program
+    // {
+    //     private static void Main(string[] args)
+    //     {
+    //         C c = new C();
+    //         c.X();
+    //         c.Y();
+    //         c.Z();
+
+    //         B b = new C(); // Bu nesnenin B türündeki davranışlarına erişebiliyoruz
+    //         b.X();
+    //         b.Y();
+
+    //         A a = new C(); // Bu nesnenin A türündeki davranışlarına erişebiliyoruz
+    //         a.X();
+
+    //     }
+    // }
+    // class A 
+    // {
+    //     public void X() { }
+    // }
+    // class B : A
+    // {
+    //     public void Y() { }
+    // }
+    // class C : B
+    // {
+    //     public void Z() { }
+    // }
+
+    #endregion
+    
+    #region Part 2
+    
     class Program
     {
-        private static void Main(string[] args)
+        static void Main(string[] args)
         {
-            C c = new C();
-            c.X();
-            c.Y();
-            c.Z();
+            Matematik m = new();
+            m.Topla(4,6);
 
-            B b = new C(); // Bu nesnenin B türündeki davranışlarına erişebiliyoruz
-            b.X();
-            b.Y();
+            Arac a  = new Arac();
+            a.Calistir();
+            Taksi t = new Taksi();
+            t.Calistir();
 
-            A a = new C(); // Bu nesnenin A türündeki davranışlarına erişebiliyoruz
-            a.X();
+            Arac t2 = new Taksi();
+            t2.Calistir();
 
+            
         }
     }
-    class A 
+    class Matematik
     {
-        public void X() { }
+        public long Topla(int s1, int s2)
+            => s1 + s2;
+        public long Topla(int s1, int s2, int s3)
+            => s1 + s2 + s3;
+        public long Topla(int s1, int s2, int s3, int s4)
+            => s1 + s2 + s3 + s4;
     }
-    class B : A
+    class Arac
     {
-        public void Y() { }
+        public virtual void Calistir()
+            => Console.WriteLine("Araç Calisti...");
+
     }
-    class C : B
+    class Taksi : Arac
     {
-        public void Z() { }
+        public override void Calistir()
+            => Console.WriteLine("Taksi Calisti...");
+        
     }
+
+    #endregion
+
+
 }

@@ -3,3 +3,6 @@ Cevap 1 => Bir classtan ilk nesne üretiminde tetiklenen fonksiyon static ctordu
 
 Soru 2 => virtual nedir?
 Cevap => Bir sanal memberın hangi nesneden geleceği run timede belirlenir
+
+Soru 3 => Static Polimorfizm Nedir ?
+Cevap => Metot Overlading olmuş bir metottun derleme zamanında bilnmesi olayında denir.
