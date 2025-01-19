@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders18_Virtual-Override", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders19_Polimorfizm", "Ders19_Polimorfizm\Ders19_Polimorfizm.csproj", "{EE65D2FC-6A29-4E00-BC2B-6C1791A7E739}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders20_NesnelerArasiIliskiTurleri", "Ders20_NesnelerArasiIliskiTurleri\Ders20_NesnelerArasiIliskiTurleri.csproj", "{22BB1DAF-B305-47AA-ADC8-3E5ACC327905}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -257,5 +259,17 @@ Global
 		{EE65D2FC-6A29-4E00-BC2B-6C1791A7E739}.Release|x64.Build.0 = Release|Any CPU
 		{EE65D2FC-6A29-4E00-BC2B-6C1791A7E739}.Release|x86.ActiveCfg = Release|Any CPU
 		{EE65D2FC-6A29-4E00-BC2B-6C1791A7E739}.Release|x86.Build.0 = Release|Any CPU
+		{22BB1DAF-B305-47AA-ADC8-3E5ACC327905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22BB1DAF-B305-47AA-ADC8-3E5ACC327905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22BB1DAF-B305-47AA-ADC8-3E5ACC327905}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{22BB1DAF-B305-47AA-ADC8-3E5ACC327905}.Debug|x64.Build.0 = Debug|Any CPU
+		{22BB1DAF-B305-47AA-ADC8-3E5ACC327905}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{22BB1DAF-B305-47AA-ADC8-3E5ACC327905}.Debug|x86.Build.0 = Debug|Any CPU
+		{22BB1DAF-B305-47AA-ADC8-3E5ACC327905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22BB1DAF-B305-47AA-ADC8-3E5ACC327905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22BB1DAF-B305-47AA-ADC8-3E5ACC327905}.Release|x64.ActiveCfg = Release|Any CPU
+		{22BB1DAF-B305-47AA-ADC8-3E5ACC327905}.Release|x64.Build.0 = Release|Any CPU
+		{22BB1DAF-B305-47AA-ADC8-3E5ACC327905}.Release|x86.ActiveCfg = Release|Any CPU
+		{22BB1DAF-B305-47AA-ADC8-3E5ACC327905}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
