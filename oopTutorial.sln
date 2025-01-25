@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders22_SealedKeyword", "Der
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders23_PartialYapilanmalar", "Ders23_PartialYapilanmalar\Ders23_PartialYapilanmalar.csproj", "{848E0321-33AA-4737-A814-EAFC21AECB46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders24_Abstraction", "Ders24_Abstraction\Ders24_Abstraction.csproj", "{2B75D654-B480-4F1A-AB2D-CA09F19E0718}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -313,5 +315,17 @@ Global
 		{848E0321-33AA-4737-A814-EAFC21AECB46}.Release|x64.Build.0 = Release|Any CPU
 		{848E0321-33AA-4737-A814-EAFC21AECB46}.Release|x86.ActiveCfg = Release|Any CPU
 		{848E0321-33AA-4737-A814-EAFC21AECB46}.Release|x86.Build.0 = Release|Any CPU
+		{2B75D654-B480-4F1A-AB2D-CA09F19E0718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B75D654-B480-4F1A-AB2D-CA09F19E0718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B75D654-B480-4F1A-AB2D-CA09F19E0718}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2B75D654-B480-4F1A-AB2D-CA09F19E0718}.Debug|x64.Build.0 = Debug|Any CPU
+		{2B75D654-B480-4F1A-AB2D-CA09F19E0718}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2B75D654-B480-4F1A-AB2D-CA09F19E0718}.Debug|x86.Build.0 = Debug|Any CPU
+		{2B75D654-B480-4F1A-AB2D-CA09F19E0718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B75D654-B480-4F1A-AB2D-CA09F19E0718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B75D654-B480-4F1A-AB2D-CA09F19E0718}.Release|x64.ActiveCfg = Release|Any CPU
+		{2B75D654-B480-4F1A-AB2D-CA09F19E0718}.Release|x64.Build.0 = Release|Any CPU
+		{2B75D654-B480-4F1A-AB2D-CA09F19E0718}.Release|x86.ActiveCfg = Release|Any CPU
+		{2B75D654-B480-4F1A-AB2D-CA09F19E0718}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
