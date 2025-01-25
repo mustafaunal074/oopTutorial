@@ -10,3 +10,6 @@ Cevap => Metot Overlading olmuş bir metottun derleme zamanında bilnmesi olayı
 Soru 3 => Sealed Keywordü Nedir?
 Cevap => Bir sınıfın miras vermesini yahut bir başka deyişle başka bir sınıf tarafından miras alınmasını engelleyen bir keyword'dür.
 - Sadece sınıflarda ve sadece 'override' edilmiş metotlarda kullanılabilir.
+
+Soru4 => virtual-override ile abstract-override arasındaki fark nedir?
+Cevap => virtual-override ile yapılan işlem opsiyoneldir istersek o member'ı miras verilen sınıfta işleme tabi tutabiliriz lakin abstract-override ile yapılan işlemde implemente edilen classta bu member'ı zoraki bir işleme tabi tutarız.
