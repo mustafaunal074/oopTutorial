@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders24_Abstraction", "Ders2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders25_AbstractClass", "Ders25_AbstractClass\Ders25_AbstractClass.csproj", "{5A922B2D-960E-4389-A73D-09DFCAD5DFBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders26_Interface", "Ders26_Interface\Ders26_Interface.csproj", "{4F8EF132-C44A-4513-ADAA-D167B1BD9BCD}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -341,5 +343,17 @@ Global
 		{5A922B2D-960E-4389-A73D-09DFCAD5DFBA}.Release|x64.Build.0 = Release|Any CPU
 		{5A922B2D-960E-4389-A73D-09DFCAD5DFBA}.Release|x86.ActiveCfg = Release|Any CPU
 		{5A922B2D-960E-4389-A73D-09DFCAD5DFBA}.Release|x86.Build.0 = Release|Any CPU
+		{4F8EF132-C44A-4513-ADAA-D167B1BD9BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8EF132-C44A-4513-ADAA-D167B1BD9BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8EF132-C44A-4513-ADAA-D167B1BD9BCD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4F8EF132-C44A-4513-ADAA-D167B1BD9BCD}.Debug|x64.Build.0 = Debug|Any CPU
+		{4F8EF132-C44A-4513-ADAA-D167B1BD9BCD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4F8EF132-C44A-4513-ADAA-D167B1BD9BCD}.Debug|x86.Build.0 = Debug|Any CPU
+		{4F8EF132-C44A-4513-ADAA-D167B1BD9BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8EF132-C44A-4513-ADAA-D167B1BD9BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F8EF132-C44A-4513-ADAA-D167B1BD9BCD}.Release|x64.ActiveCfg = Release|Any CPU
+		{4F8EF132-C44A-4513-ADAA-D167B1BD9BCD}.Release|x64.Build.0 = Release|Any CPU
+		{4F8EF132-C44A-4513-ADAA-D167B1BD9BCD}.Release|x86.ActiveCfg = Release|Any CPU
+		{4F8EF132-C44A-4513-ADAA-D167B1BD9BCD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
