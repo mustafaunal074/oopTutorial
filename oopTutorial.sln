@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders25_AbstractClass", "Der
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders26_Interface", "Ders26_Interface\Ders26_Interface.csproj", "{4F8EF132-C44A-4513-ADAA-D167B1BD9BCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders27_Namespace", "Ders27_Namespace\Ders27_Namespace.csproj", "{F8B72E92-D3A7-42ED-BF2B-389F061DFE5C}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -355,5 +357,17 @@ Global
 		{4F8EF132-C44A-4513-ADAA-D167B1BD9BCD}.Release|x64.Build.0 = Release|Any CPU
 		{4F8EF132-C44A-4513-ADAA-D167B1BD9BCD}.Release|x86.ActiveCfg = Release|Any CPU
 		{4F8EF132-C44A-4513-ADAA-D167B1BD9BCD}.Release|x86.Build.0 = Release|Any CPU
+		{F8B72E92-D3A7-42ED-BF2B-389F061DFE5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B72E92-D3A7-42ED-BF2B-389F061DFE5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B72E92-D3A7-42ED-BF2B-389F061DFE5C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F8B72E92-D3A7-42ED-BF2B-389F061DFE5C}.Debug|x64.Build.0 = Debug|Any CPU
+		{F8B72E92-D3A7-42ED-BF2B-389F061DFE5C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F8B72E92-D3A7-42ED-BF2B-389F061DFE5C}.Debug|x86.Build.0 = Debug|Any CPU
+		{F8B72E92-D3A7-42ED-BF2B-389F061DFE5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B72E92-D3A7-42ED-BF2B-389F061DFE5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B72E92-D3A7-42ED-BF2B-389F061DFE5C}.Release|x64.ActiveCfg = Release|Any CPU
+		{F8B72E92-D3A7-42ED-BF2B-389F061DFE5C}.Release|x64.Build.0 = Release|Any CPU
+		{F8B72E92-D3A7-42ED-BF2B-389F061DFE5C}.Release|x86.ActiveCfg = Release|Any CPU
+		{F8B72E92-D3A7-42ED-BF2B-389F061DFE5C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
